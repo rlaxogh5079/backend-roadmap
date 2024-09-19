@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# 백엔드 로드맵 정리
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+이 프로젝트는 <b>jonghyuck’s velog</b>님의 velog 페이지를 기반으로 만들어졌습니다.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<img src="assets/images/roadmap.png">
